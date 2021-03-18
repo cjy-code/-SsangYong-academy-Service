@@ -112,5 +112,6 @@
 <br><br>
 
 
-### 7.
+### 7.후기
+![#2_후기](https://user-images.githubusercontent.com/69965049/111576668-45ef1b00-87f4-11eb-854a-57378c0f0eaf.png)
 
